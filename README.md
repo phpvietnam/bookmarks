@@ -1,4 +1,4 @@
-PHPVietnam
+PHPVietnam ![](http://img.shields.io/badge/PHP%20Vietnam-❤-blue.svg#.png)
 ==========
 
 ## Cộng đồng
