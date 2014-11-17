@@ -9,6 +9,7 @@ PHPVietnam ![](http://img.shields.io/badge/PHP%20Vietnam-❤-blue.svg#.png)
 - http://www.zend.vn/
 - http://tienboi.com/tag/php
 - http://www.phpday.vn
+- http://forum.zphalcon.com
 
 ## Cộng đồng con
 
