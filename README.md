@@ -16,6 +16,7 @@ PHPVietnam ![](http://img.shields.io/badge/PHP%20Vietnam-❤-blue.svg#.png)
 - [Joomla Vietnam](http://joomlaviet.vn/)
 - [Laravel Vietnam](https://www.facebook.com/groups/vnlaravel/)
 - [Wordpress Vietnam](https://www.facebook.com/groups/wordpressviet/)
+- [Phalcon Vietnam](http://forum.zphalcon.com)
 
 ## Đào tạo
 
@@ -24,3 +25,4 @@ PHPVietnam ![](http://img.shields.io/badge/PHP%20Vietnam-❤-blue.svg#.png)
 - http://tuhocphp.com/
 - http://hocphponline.com/blog/
 - http://niit.vn/khoa-hoc/lap-trinh-php-3.html
+- http://techmaster.vn/  Phalcon, Android, Java, Ruby
